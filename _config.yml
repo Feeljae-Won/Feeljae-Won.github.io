@@ -117,14 +117,14 @@ author:
   avatar           : "/assets/images/feeljae1.jpg"
   bio              : "사진 찍는 개발자"
   location         : "Republic of Korea"
-  email            : "feeljae12@naver.com"
+  email            : feeljae12@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "feeljae12@naver.com"
-    - label: "Website"
+    - label: "Portfolio"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -147,9 +147,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
+    - label: "Portfolio"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://Feeljae-Won.github.io/"
