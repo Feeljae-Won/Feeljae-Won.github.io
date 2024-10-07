@@ -116,8 +116,8 @@ author:
   name             : "Feeljae Won"
   avatar           : "/assets/images/feeljae1.jpg"
   bio              : "사진 찍는 개발자"
-  location         : "Republic of Korea"
-  email            : feeljae12@naver.com
+  location         : "Uijeongbu, South Korea"
+  email            : # "feeljae12@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
