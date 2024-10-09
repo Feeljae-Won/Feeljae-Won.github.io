@@ -18,3 +18,29 @@ main:
     #url: /collection-archive/
   - title: "Portfolio"
     url: "https://resisted-appliance-1a3.notion.site/Introduction-11239f2e76ef80a6859cf229413a5634"
+
+docs:
+  - title: Database
+    children:
+      - title: "Oracle"
+        url: oracle/
+        category: "oracle"
+      - title: "MS-SQL"
+        url: mssql/
+        category: "mssql"
+      - title: "MariaDB"
+        url: mariadb/
+        category: "mariadb"
+  - title: Server
+    children:
+      - title: "Ubuntu"
+        url: ubuntu/
+        category: "ubuntu"
+      - title: "Windows Server"
+        url: windows-server/
+        category: "windows-server"
+  - title: Etc
+    children:
+      - title: "Jekyll"
+        url: jekyll/
+        category: "jekyll"
