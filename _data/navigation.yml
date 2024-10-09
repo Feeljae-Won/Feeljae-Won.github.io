@@ -13,7 +13,7 @@ docs:
   - title: Dev
     children:
       - title: "Java"
-        url: java/
+        url: /java/
         category: "java"
       - title: "Oracle"
         url: oracle/
