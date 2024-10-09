@@ -14,7 +14,7 @@ header:
 ---
 <div class="grid__wrapper">
     {% for post in paginator.posts %}
-    {% include archive.html type="list" %}
+    {% include archive-single.html type="grid" %}
     {% endfor %}
 </div>
-{% include paginator.html %} 
+    {% include paginator.html %} 
