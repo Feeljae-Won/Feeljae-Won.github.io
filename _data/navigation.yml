@@ -2,20 +2,10 @@
 main:
   - title: "About Me"
     url: /about/
-  - #title: "Dev"
-    #url: /dev/
-  - #title: "Photo"
-    #url: /photo/
-  - #title: "Travle"
-    #url: /travle/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - #title: "Pages"
-    #url: /page-archive/
-  - #title: "Collections"
-    #url: /collection-archive/
   - title: "Portfolio"
     url: "https://resisted-appliance-1a3.notion.site/Introduction-11239f2e76ef80a6859cf229413a5634"
 
