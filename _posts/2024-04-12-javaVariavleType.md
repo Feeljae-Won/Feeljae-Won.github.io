@@ -6,15 +6,7 @@ categories:
 layout: single
 ---
 
-# Java 변수의 타입--
-title: "[Java] 변수의 탕입"
-categories:
-  - docs
-    - java
-    layout: single
-    ---
-
-    # Java 변수의 타입
+# Java 변수의 타입
 
 ## 정수 타입
     - 변수의 형태 = 데이터의 형태
