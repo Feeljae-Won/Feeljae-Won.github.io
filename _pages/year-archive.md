@@ -3,7 +3,5 @@ title: "Posts by Year"
 permalink: /year-archive/
 layout: posts
 author_profile: true
-sidebar:
-  nav: "docs"
-entries_layout: list
+sidebar_main: true
 ---
