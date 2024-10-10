@@ -329,9 +329,10 @@ defaults:
       comments: # 블로그 댓글 기능 true
       share: true
       related: true
-      sidebar:
-        nav: "docs"
-      entries_layout: list
+      sidebar_main: true
+      #sidebar:
+       # nav: "docs"
+      #entries_layout: list
 
   # _pages
   - scope:
@@ -344,6 +345,7 @@ defaults:
       comments: false
       share: true
       related: false
-      sidebar:
-        nav: "docs"
-      entries_layout: list
+      sidebar_main: true
+      #sidebar:
+       # nav: "docs"
+      #entries_layout: list
