@@ -13,31 +13,31 @@ docs:
   - title: Dev
     children:
       - title: "Java"
-        url: /posts/java/
+        url: /docs/java/
         category: "java"
       - title: "Oracle"
-        url: /posts/oracle/
+        url: /docs/oracle/
         category: "oracle"
       - title: "JSP"
-        url: /posts/jsp/
+        url: /docs/jsp/
         category: "jsp"
       - title: "CSS"
-        url: /posts/css/
+        url: /docs/css/
         category: "css"
       - title: "Javascript"
-        url: /posts/javascript/
+        url: /docs/javascript/
         category: "javascript"
       - title: "servlet"
-        url: /posts/servlet/
+        url: /docs/servlet/
         category: "servlet"
       - title: "Spring"
-        url: /posts/spring/
+        url: /docs/spring/
         category: "spring"
   - title: Photo
     children:
       - title: "Travle"
-        url: /posts/travle/
+        url: /docs/travle/
         category: "travle"
       - title: "Daily"
-        url: /posts/daily/
+        url: /docs/daily/
         category: "daily"
