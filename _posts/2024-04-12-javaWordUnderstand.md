@@ -9,7 +9,7 @@ layout: single
 # Java 용어의 이해
 
 ## 용어의 이해
-'''java
+```java
 // package - 꾸러미(묶음) : 위치 = 폴더
 // class - 방 : 파일 (~.java)
 
@@ -38,10 +38,10 @@ public class Hello {
     System.out.println("Hello! java");
   }
 }
-'''
+```
 
 ## 주석
-'''java
+```java
 // 주석
 /**
   * 외부에서 보이는 범위 주속으로 작성된다.(클래스에 해당)
@@ -53,4 +53,4 @@ public class Hello {
   */
 
 // 이후 부터 줄이 끝날 때까지 주석 (한줄 주석)
-'''
+```
