@@ -1,5 +1,5 @@
 ---
-title: "[Java] 변수의 탕입"
+title: "[Java] 변수의 타입"
 categories:
   - docs
   - java
