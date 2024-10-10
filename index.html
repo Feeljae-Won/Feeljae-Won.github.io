@@ -18,3 +18,10 @@ header:
     <br>
     <a href="https://resisted-appliance-1a3.notion.site/Introduction-11239f2e76ef80a6859cf229413a5634">포트폴리오 확인하기</a>
 </div>
+
+<div>
+  <h4>최근 글</h4>
+  <hr>
+  {% assign posts = site.categories %}
+  {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
+</div>
