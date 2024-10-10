@@ -317,4 +317,27 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single
       author_profile: true
+      read_time: true
+      comments: # 블로그 댓글 기능 true
+      share: true
+      related: true
+      sidebar:
+        nav: "docs"
+      entries_layout: list
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      sidebar:
+        nav: "docs"
+      entries_layout: list
