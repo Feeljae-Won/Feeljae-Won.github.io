@@ -20,6 +20,7 @@ header:
 #### -Profile
 `Name` : **원필재** (Feeljae Won)<br>
 `Born to date` : **Aug 11, 1992**<br>
-`Add` : **Uijeongbu, Gyeonggi-do, South Korea**<br><br>
+`Add` : **Uijeongbu, Gyeonggi-do, South Korea**<br>
+`Email` : [feeljae12@naver.com](feeljae12@naver.com)<br><br>
 `Skills` : `Java` `Oracle` `Spring MVC` `Spring Framework` `HTML5` `CSS3` `Javascript` `jQuery` `Ajax` `MyBatis`<br>
 `Camera` : **Fujifilm X-T4**, **Fujifilm X100V**
