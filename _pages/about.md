@@ -16,9 +16,8 @@ header:
 #### 웹 개발자의 기술 블로그이자 사진 저장소 입니다.
 <br>
 
-'Name' : **원필재** (Feeljae Won)<br>
-'Born to date' : **Aug 11, 1992**<br>
-'Add' : **Uijeongbu, Gyeongido, South Korea**<br>
-<br>
-'Skills : 'Java' 'Oracle' 'Spring MVC' 'Spring Framework' 'HTML5' 'CSS3' 'Javascript' 'jQuery' 'Ajax' 'MyBatis'<br>
-'Camera' : **Fujifilm X-T4**, **Fujifilm X100V**
+`Name` : **원필재** (Feeljae Won)<br>
+`Born to date` : **Aug 11, 1992**<br>
+`Add` : **Uijeongbu, Gyeongido, South Korea**<br><br>
+`Skills` : `Java` `Oracle` `Spring MVC` `Spring Framework` `HTML5` `CSS3` `Javascript` `jQuery` `Ajax` `MyBatis`<br>
+`Camera` : **Fujifilm X-T4**, **Fujifilm X100V**
