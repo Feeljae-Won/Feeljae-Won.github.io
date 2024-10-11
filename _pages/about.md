@@ -11,9 +11,9 @@ header:
 ---
 
 
-### 안녕하세요. 원필재 입니다.
+### Hi there, I'm Feeljae Won!
 
-#### 웹 개발자의 기술 블로그이자 사진 저장소 입니다.
+#### Welcome to my blog, where I share web development tips and tricks, along with a collection of my favorite photos.
 <br>
 ![about Me](/assets/images/DSCF1195.JPG)
 <br>
