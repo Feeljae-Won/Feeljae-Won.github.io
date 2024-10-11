@@ -3,6 +3,8 @@ title: "[Java] 반복문 (while, do while) 예제"
 categories:
   - docs
   - java
+tags:
+  - java
 layout: single
 ---
 

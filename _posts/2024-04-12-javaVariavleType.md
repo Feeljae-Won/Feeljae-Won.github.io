@@ -3,6 +3,8 @@ title: "[Java] 변수의 타입"
 categories:
   - docs
   - java
+tags:
+  - java
 layout: single
 ---
 
@@ -47,7 +49,7 @@ Int testScores[] = {101,110,90,89};
 ```
 				
 	iii. 클래스 - 다른 타입의 변수 여러 개 선언 가능
-	
+
 	iv. 컬렉션과 Map
 
 

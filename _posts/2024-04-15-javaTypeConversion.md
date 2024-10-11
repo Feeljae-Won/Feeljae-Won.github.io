@@ -3,6 +3,8 @@ title: "[Java] 타입 변환"
 categories:
   - docs
   - java
+tags:
+  - java
 layout: single
 ---
 

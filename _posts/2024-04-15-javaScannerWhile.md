@@ -3,6 +3,8 @@ title: "[Java] 키보드 입력 데이터를 변수에 저장 (Scanner & While�
 categories:
   - docs
   - java
+tags:
+  - java
 layout: single
 ---
 

@@ -3,6 +3,8 @@ title: "[Java] 조건문 (switch문) 예제"
 categories:
   - docs
   - java
+tags:
+  - java
 layout: single
 ---
 

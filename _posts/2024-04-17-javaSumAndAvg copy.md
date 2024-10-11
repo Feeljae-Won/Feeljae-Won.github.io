@@ -4,6 +4,8 @@ categories:
   - docs
   - java
   - algorithm
+tags:
+  - java
 layout: single
 ---
 

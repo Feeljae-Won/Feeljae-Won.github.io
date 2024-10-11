@@ -3,6 +3,8 @@ title: "[Java] 참조 타입 - 변수 주소, 문자 추출, 문자열 대체, �
 categories:
   - docs
   - java
+tags:
+  - java
 layout: single
 ---
 

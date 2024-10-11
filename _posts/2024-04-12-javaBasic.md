@@ -3,6 +3,8 @@ title: "[Java] 용어의 이해"
 categories:
   - docs
   - java
+tags:
+  - java
 layout: single
 ---
 
