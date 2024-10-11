@@ -1,5 +1,5 @@
 ---
-title: "[Java] 클래스 - )오버로딩(Overloading)과 오버라이딩(Overriding)의 차이"
+title: "[Java] 오버로딩(Overloading)과 오버라이딩(Overriding)의 차이"
 categories:
   - docs
   - java
