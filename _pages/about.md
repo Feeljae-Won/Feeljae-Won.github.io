@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Me"
 layout: single
 permalink: /about/
 author_profile: true
@@ -10,10 +10,9 @@ header:
     image_description: "About Feeel_j"
 ---
 
+# Hi there, I'm Feeljae Won!
 
-### Hi there, I'm Feeljae Won!
-
-#### Welcome to my blog, where I share web development tips and tricks, along with a collection of my favorite photos.
+#### Welcome to my blog, where I share web development notied, along with a collection of my favorite photos.
 <br>
 ![about Me](/assets/images/DSCF1195.JPG)
 <br>
