@@ -9,5 +9,7 @@ sidebar_main: true
 
 
 
-### Hi There!
-### This is Feele_j Blog!
+### 안녕하세요. 원필재 입니다.
+
+#### 웹 개발자를 향한 기술 블로그이자 사진 저장소 입니다.
+![About me](/assets/images/DSCF1195.JPG)
