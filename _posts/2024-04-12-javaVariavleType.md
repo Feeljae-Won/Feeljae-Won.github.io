@@ -54,7 +54,8 @@ public class LongExample {
 
 ## 실수 타입
     2. 실수 - 부동 소수점 형식(소수점이 있다.) : 부호 + 지수 + 유효숫자
-     - Float - 4 byte  >> 1.2F (float은 F를 붙여야 함.
+     - Float - 4 byte  >> 1.2F (float은 F를 붙여야 함.)
+
 ```java
 package ch02var;
 
@@ -108,6 +109,7 @@ public class CharExample {
 
 ## 논리 타입
     1. Boolean : true / false - 1 byte
+
 ```java
 package ch02var;
 
