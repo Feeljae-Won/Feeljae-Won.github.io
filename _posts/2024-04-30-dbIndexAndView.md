@@ -15,7 +15,7 @@ layout: single
   - 쿼리가 길고 복잡할 때
   - 사용 제한을 주고자 할 때
 
-```SQL
+```sql
 -- VIEW TABLE을 이용한 처리를 위한 VIEW 생성
 -- VIEW = 가상 테이블
 CREATE OF REPLACE VIEW NOTICE_PRE
@@ -27,7 +27,7 @@ WHERE SYSDATE >= STARTDATE AND TRUNC(SYSDATE) <= ENDDATE
 ORDER BY UPDATEDATE DESC, NO DESC;
 ```
 - 아래와 같이 VIEW 테이블로 조회할 수 있다.
-```SQL
+```sql
 SELECT NO. TITLE, CONTENT, STARTDATE, ENDDATE, WRITEDATE
 FROM NOTICE_PRE;
 ```
@@ -41,7 +41,7 @@ FROM NOTICE_PRE;
   - 전체 데이터의 80% 이상 INDEX를 사용하는 경우
   - 자주 데이터가 수정 되는 경우
 
-```SQL
+```sql
 -- INDEX - 속도 빠르게
 CREATE INDEX BOARD_NO_IDX
 ON BOARD(NO DESC);

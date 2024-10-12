@@ -17,14 +17,14 @@ layout: single
 - 괄호 안에 있는 내용 먼저 실행한다.
 - insert문에 데이터 자리수와 ( ) 안에 조회하는 데이터 칼럼의 자리수가 동일해야 한다.
 - values 는 한줄에 해당하는 데이터
-```SQL
+```sql
 -- 데이터를 늘리는 쿼리
 INSERT INTO BOARD (NO, TITLE, CONTENT, WRITER, PW)
 (SELECT BOARD_SEQ.NEXTVAL, TITLE, CONTENT, WRITER, PW FROM BOARD);
 ```
 
 ### COUNT
-```SQL
+```sql
 -- 전체 데이터의 개수를 가져오는 쿼리 - COUNT()
 SELECT COUNT(NO) CNT FROM BOARD;
 ```
@@ -34,7 +34,7 @@ SELECT COUNT(NO) CNT FROM BOARD;
   - `IN` 연산자 대신 사용 가능
 - UPDATE, DELETE 에서도 사용 가능
 
-```SQL
+```sql
 -- 번호 : 40, 45, 50 데이터 조회
 SELECT * FROM BOARD WHERE NO = 40 OR NO= 45 OR NO =50 ORDER BY NO DESC;
 SELECT * FROM BOARD WHERE NO IN (40, 45, 50) ORDER BY NO DESC;

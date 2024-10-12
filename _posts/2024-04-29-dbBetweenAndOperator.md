@@ -13,7 +13,7 @@ layout: single
 ### Between - And 연산자
 - 번호가 10보다 크거나 같고 35보다 작은 범위의 데이터 조회 - `AND` 연산자
 - 숫자나 날짜 범위인 경우 `BETWEEN` 연산자 사용 가능
-```SQL
+```sql
 -- 번호가 10보다 크거나 같고 35보다 작거나 같은 범위의 데이터 조회. - AND 연산자
 SELECT * FROM BOARD WHERE NO >= 10 AND NO <= 35 ORDER BY NO DESC;
 
@@ -23,7 +23,7 @@ SELECT * FROM BOARD WHERE NO BETWEEN 10 AND 35 ORDER BY NO DESC;
 
 ### 숫자 잘라내기 (TRUNC())
 - `DATE` 형식을 날짜 비교할 경우 뒤에 시간을 지우고 비교를 하기 위해 숫자를 잘라낸다.
-```SQL
+```sql
 -- TRUNC() : 숫자인 경우 소수점 이하 잘라내기, 날짜형인 경우는 시간 정보 잘라내기
 SELECT NO, TITLE, CONTENT, WRITER, TO_CHAR(WRITEDATE, 'YYYY-MM-DD') WRITEDATE, HIT
 FROM BOARD
@@ -31,7 +31,7 @@ WHERE TRUNC(WRITEDATE) - '2024-04-26';
 ```
 
 ### BETWEEN - AND 연산자로 페이지 처리 예시
-```SQL
+```sql
 --- 페이지 처리
 
 -- 모든 데이터를 가져오자.

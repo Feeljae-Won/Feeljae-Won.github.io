@@ -38,7 +38,7 @@ layout: single
 - **COALESCE**: 여러 표현식 중 첫 번째 NULL이 아닌 값을 반환한다.
   - **예시**: `SELECT COALESCE(NULL, 1, 2);` 결과는 `1`이 된다.
 
-```SQL
+```sql
 -- WHERE & NULL 예시
 SELECT * FROM BOARD WHERE WRITER = NULL; -- 사용 가능
 SELECT * FROM BOARD WHERE WRITER != NULL; -- 오류는 안나지만 NOT NULL은 연산이 안됨
@@ -46,7 +46,7 @@ SELECT * FROM BOARD WHERE WRITER IS NOT NULL; -- NOT NULL은 IS NOT NULL 사
 ```
 
 #### NULL 관련 함수
-```SQL
+```sql
 -- NULL 인 경우는 0으로 처리해라 -> NVL()
 SELECT NVL(NULL, 0) + 1 FROM DUAL;
 ```
