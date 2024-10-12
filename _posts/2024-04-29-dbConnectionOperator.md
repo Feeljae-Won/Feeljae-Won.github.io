@@ -34,7 +34,7 @@ layout: single
 ```sql
 SELECT (NO || '-' || TITLE) DATA FROM BOARD ORDER BY NO DESC;
 ```
-|DATA|
-|---|
-|1-JAVA|
-|2-ORACLE|
+|DATA|---|---|
+|---|---|---|
+|1-JAVA|---|---|
+|2-ORACLE|---|---|
