@@ -1,0 +1,41 @@
+---
+title: "[Java] 예외처리 (try ~ catch)"
+categories:
+  - docs
+  - java
+tags:
+  - java
+layout: single
+---
+
+### 테이블 합치기 (Union)
+- **설명**: UNION 연산자는 두 개 이상의 SELECT 문의 결과 집합을 결합하여 하나의 결과 집합으로 만든다. 중복된 행은 제거된다.
+- **특징**: 각 SELECT 문의 열 개수와 데이터 타입이 일치해야 한다.
+
+#### 예시
+- **기본 예시**: 두 테이블의 데이터를 결합한다.
+  - **쿼리**:
+    ```sql
+    SELECT name FROM employees
+    UNION
+    SELECT name FROM customers;
+    ```
+  - **결과**: employees와 customers 테이블의 name 열을 결합한 결과가 반환된다. 중복된 이름은 제거된다.
+
+### UNION ALL 연산자
+- **설명**: UNION ALL 연산자는 두 개 이상의 SELECT 문의 결과 집합을 결합하여 하나의 결과 집합으로 만든다. 중복된 행도 포함된다.
+- **특징**: 각 SELECT 문의 열 개수와 데이터 타입이 일치해야 한다.
+
+#### 예시
+- **기본 예시**: 두 테이블의 데이터를 결합한다.
+  - **쿼리**:
+    ```sql
+    SELECT name FROM employees
+    UNION ALL
+    SELECT name FROM customers;
+    ```
+  - **결과**: employees와 customers 테이블의 name 열을 결합한 결과가 반환된다. 중복된 이름도 포함된다.
+
+### 주의사항
+- **열 개수와 데이터 타입**: 각 SELECT 문의 열 개수와 데이터 타입이 일치해야 한다.
+- **순서**: 각 SELECT 문의 열 순서가 동일해야 한다.
