@@ -1,5 +1,6 @@
 ---
 title: "[DB] 연결 연산자"
+date: 2024-04-29 19:30:00 +0900
 categories:
   - docs
   - db

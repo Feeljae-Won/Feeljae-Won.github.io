@@ -1,5 +1,6 @@
 ---
 title: "[Java] 타입 변환"
+date: 2024-04-16 19:20:00 +0900
 categories:
   - docs
   - java

@@ -1,5 +1,6 @@
 ---
 title: "[Java] for문을 사용한 합계와 평균"
+date: 2024-04-17 19:20:00 +0900
 categories:
   - docs
   - java

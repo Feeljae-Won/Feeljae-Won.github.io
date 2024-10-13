@@ -1,5 +1,6 @@
 ---
 title: "[DB] 테이블 생성"
+date: 2024-04-25 19:00:00 +0900
 categories:
   - docs
   - db

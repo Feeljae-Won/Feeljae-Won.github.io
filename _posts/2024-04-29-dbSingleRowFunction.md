@@ -1,5 +1,6 @@
 ---
 title: "[DB] 단일 행 함수"
+date: 2024-04-29 20:00:00 +0900
 categories:
   - docs
   - db

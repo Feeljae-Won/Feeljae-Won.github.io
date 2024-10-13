@@ -1,5 +1,6 @@
 ---
 title: "[DB] 산술연산자"
+date: 2024-04-29 19:10:00 +0900
 categories:
   - docs
   - db

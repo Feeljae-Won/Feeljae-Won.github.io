@@ -1,5 +1,6 @@
 ---
 title: "[Java] 반복문 (while, do while) 예제"
+date: 2024-04-16 19:30:00 +0900
 categories:
   - docs
   - java

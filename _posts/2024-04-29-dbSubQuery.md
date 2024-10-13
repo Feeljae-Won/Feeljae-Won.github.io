@@ -1,5 +1,6 @@
 ---
 title: "[DB] (서브쿼리) - 데이터 늘리기 , COUNT, 데이터 여러개 조회(IN)"
+date: 2024-04-29 20:10:00 +0900
 categories:
   - docs
   - db

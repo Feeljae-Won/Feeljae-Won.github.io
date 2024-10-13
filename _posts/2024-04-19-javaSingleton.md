@@ -1,5 +1,6 @@
 ---
 title: "[Java] 싱글톤(Singleton) 패턴"
+date: 2024-04-19 19:20:00 +0900
 categories:
   - docs
   - java

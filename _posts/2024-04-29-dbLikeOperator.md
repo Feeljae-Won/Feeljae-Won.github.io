@@ -1,5 +1,6 @@
 ---
 title: "[DB] LIKE 연산자"
+date: 2024-04-29 19:40:00 +0900
 categories:
   - docs
   - db

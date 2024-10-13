@@ -1,5 +1,6 @@
 ---
 title: "[DB] Group By 절"
+date: 2024-04-30 19:00:00 +0900
 categories:
   - docs
   - db

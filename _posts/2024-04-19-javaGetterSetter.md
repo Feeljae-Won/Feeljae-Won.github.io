@@ -1,5 +1,6 @@
 ---
 title: "[Java] Getter와 Setter"
+date: 2024-04-19 19:10:00 +0900
 categories:
   - docs
   - java

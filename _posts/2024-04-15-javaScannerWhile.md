@@ -1,5 +1,6 @@
 ---
 title: "[Java] 키보드 입력 데이터를 변수에 저장 (Scanner & While문)"
+date: 2024-04-15 19:10:00 +0900
 categories:
   - docs
   - java

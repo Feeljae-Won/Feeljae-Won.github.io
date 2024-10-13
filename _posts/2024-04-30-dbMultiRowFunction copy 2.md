@@ -1,5 +1,6 @@
 ---
 title: "[DB] 다중 행 함수"
+date: 2024-04-30 19:30:00 +0900
 categories:
   - docs
   - db

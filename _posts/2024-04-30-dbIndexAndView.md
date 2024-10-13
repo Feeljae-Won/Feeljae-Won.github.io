@@ -1,5 +1,6 @@
 ---
 title: "[DB] Index와 View"
+date: 2024-04-30 19:10:00 +0900
 categories:
   - docs
   - db

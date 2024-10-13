@@ -1,5 +1,6 @@
 ---
 title: "[Java] 변수의 타입"
+date: 2024-04-12 19:20:00 +0900
 categories:
   - docs
   - java

@@ -1,5 +1,6 @@
 ---
 title: "[Java] 계산기 만들기"
+date: 2024-04-19 19:00:00 +0900
 categories:
   - docs
   - java

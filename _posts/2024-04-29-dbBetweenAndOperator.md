@@ -1,5 +1,6 @@
 ---
 title: "[DB] Between ~ and 연산자, 숫자 잘라내기"
+date: 2024-04-29 19:20:00 +0900
 categories:
   - docs
   - db

@@ -1,5 +1,6 @@
 ---
 title: "[Java] 용어의 이해"
+date: 2024-04-12 19:00:00 +0900
 categories:
   - docs
   - java

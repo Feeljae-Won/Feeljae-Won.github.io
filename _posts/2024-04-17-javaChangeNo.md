@@ -1,5 +1,6 @@
 ---
 title: "[Java] 숫자 바꾸기"
+date: 2024-04-17 19:00:00 +0900
 categories:
   - docs
   - java

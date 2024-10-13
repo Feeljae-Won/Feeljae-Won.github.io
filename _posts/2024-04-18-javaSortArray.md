@@ -1,5 +1,6 @@
 ---
 title: "[Java] 배열 항목 반복을 위한 향상된 for 문 (배열 정렬)"
+date: 2024-04-18 19:30:00 +0900
 categories:
   - docs
   - java

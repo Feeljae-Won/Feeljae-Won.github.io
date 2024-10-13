@@ -1,5 +1,6 @@
 ---
 title: "[Java] 상속 (Inheritance), 추상클래스와 인터페이스"
+date: 2024-04-23 19:00:00 +0900
 categories:
   - docs
   - java

@@ -1,5 +1,6 @@
 ---
 title: "[Java] 오버로딩(Overloading)과 오버라이딩(Overriding)의 차이"
+date: 2024-04-18 19:20:00 +0900
 categories:
   - docs
   - java

@@ -1,5 +1,6 @@
 ---
 title: "[DB] Null 연산"
+date: 2024-04-29 19:50:00 +0900
 categories:
   - docs
   - db

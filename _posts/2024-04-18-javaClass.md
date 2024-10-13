@@ -1,5 +1,6 @@
 ---
 title: "[Java] 클래스 - Class"
+date: 2024-04-18 19:00:00 +0900
 categories:
   - docs
   - java
