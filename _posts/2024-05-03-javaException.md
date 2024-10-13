@@ -49,7 +49,7 @@ public class ExceptionExample {
 } // end of class
 ```
 
-### Thorws
+### Thorws - 메서드 호출로 예외 처리
 ```java
 package ch11exception;
 
@@ -88,7 +88,7 @@ public class ExceptionExample {
     System.out.println("프로그램 끝");
     
   } // end of main ()
-  
+
   public static int divide(int a) throws Exception {
     int result = 0;
     
