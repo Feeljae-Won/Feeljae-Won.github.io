@@ -1,5 +1,5 @@
 ---
-title: "[DB] Between - and 연산자, 숫자 잘라내기
+title: "[DB] Between ~ and 연산자, 숫자 잘라내기"
 categories:
   - docs
   - db
