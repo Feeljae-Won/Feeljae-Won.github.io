@@ -108,6 +108,7 @@ layout: single
            }
        }
    }
+   ```
 
 2. **TreeMap 예제**
   - TreeMap은 키의 자연 순서(혹은 제공된 Comparator)에 따라 정렬된다.
