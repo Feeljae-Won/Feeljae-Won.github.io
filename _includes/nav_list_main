@@ -37,6 +37,20 @@
                   {% endif %}
               {% endfor %}
             </ul>
+            <ul>
+              {% for category in site.categories %}
+                  {% if category[0] == "css" %}
+                      <li><a href="/categories/css" class="">CSS ({{category[1].size}})</a></li>
+                  {% endif %}
+              {% endfor %}
+            </ul>
+            <ul>
+              {% for category in site.categories %}
+                  {% if category[0] == "javascript" %}
+                      <li><a href="/categories/javascript" class="">JavaScript ({{category[1].size}})</a></li>
+                  {% endif %}
+              {% endfor %}
+            </ul>
       </li>
       <li>
         <span class="nav__sub-title">Photo</span>
