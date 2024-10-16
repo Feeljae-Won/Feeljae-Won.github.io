@@ -9,7 +9,7 @@ categories:
 tags:
   - jsp
   - html
-  - board
+  - member
   - front-end
 layout: single
 ---
@@ -18,9 +18,9 @@ layout: single
  - **HTML** : 정적 페이지 - 데이터 변경이 안됨
  - **JSP** : 동적 페이지 - 데이터 변경이 가능하고 DB와 연동이 가능함.
 
- ## JSP 일반 게시판 리스트
+ ## 회원 가입 폼
  ```html
-  <body>
+ <body>
     <form action="write.jsp">
       <!-- 아이디, 비밀번호, 비밀번호 확인, 이름, 성별, 생년월일, 연락처, 이메일, 
         우편번호, 기본 주소, 상세 주소, 사진, 관심 상품  -->
@@ -171,52 +171,51 @@ layout: single
         </tr>
       </table>
     </form>
-  </body>
+ </body>
  ```
 
  ## CSS
  ```css
-<styletype="text/css">
-table {
-  /* 가운데 정렬 : 밖의 여백 */
-  margin: 0 auto;
-  width: 800px;
-}
+ <styletype="text/css">
+  table {
+    /* 가운데 정렬 : 밖의 여백 */
+    margin: 0 auto;
+    width: 800px;
+  }
 
-th, td {
-  border: 1px hidden #000;
-  padding: 5px;
-}
+  th, td {
+    border: 1px hidden #000;
+    padding: 5px;
+  }
 
-th {
-  width: 20%;
-  background: #3366cc;
-  color: white;
-  background: #3366cc;
-}
+  th {
+    width: 20%;
+    background: #3366cc;
+    color: white;
+    background: #3366cc;
+  }
 
-td {
-  background: #99b3e6;
-  color: white;
-}
+  td {
+    background: #99b3e6;
+    color: white;
+  }
 
-input, select, textarea {
-  padding: 5px;
-}
+  input, select, textarea {
+    padding: 5px;
+  }
 
-.textInput {
-  /* 	width: 98%; */
-  
-}
-#basicAddress, #detailAddress{
-  width: 98%;
-}
-#email{
-  width: 300px;
-}
-td > label {
-  cursor: pointer;
-}
-</style>
-
+  .textInput {
+    /* 	width: 98%; */
+    
+  }
+  #basicAddress, #detailAddress{
+    width: 98%;
+  }
+  #email{
+    width: 300px;
+  }
+  td > label {
+    cursor: pointer;
+  }
+ </style>
  ```

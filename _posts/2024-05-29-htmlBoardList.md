@@ -21,18 +21,18 @@ layout: single
  ## JSP 일반 게시판 리스트
  ```html
 <html>
-<head>
-<metacharset="UTF-8">
-<title>일반 게시판 리스트</title>
-</head>
-<body>
-<h1>일반 게시판 리스트</h1>
-<!-- JS로 글보기로 페이지 이동
-   onclick : click 이벤트 핸들러 속성 -->
-<spanonclick="location='view.jsp'">게시글 입니다.</span><br><br>
+  <head>
+  <meta charset="UTF-8">
+  <title>일반 게시판 리스트</title>
+  </head>
+  <body>
+  <h1>일반 게시판 리스트</h1>
+  <!-- JS로 글보기로 페이지 이동
+    onclick : click 이벤트 핸들러 속성 -->
+  <span onclick="location='view.jsp'">게시글 입니다.</span><br><br>
 
-<!-- a tag : 데이터를 클릭하면 href의 정보를 가져와서 페이지 이동 시킨다. -->
-<ahref="writeForm.jsp"><button>등록</button></a>
-</body>
+  <!-- a tag : 데이터를 클릭하면 href의 정보를 가져와서 페이지 이동 시킨다. -->
+  <a href="writeForm.jsp"><button>등록</button></a>
+  </body>
 </html>
  ```
