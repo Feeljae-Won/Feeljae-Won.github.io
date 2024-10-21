@@ -18,7 +18,7 @@ layout: single
  - **HTML** : 정적 페이지 - 데이터 변경이 안됨
  - **JSP** : 동적 페이지 - 데이터 변경이 가능하고 DB와 연동이 가능함.
 
- ## 회원 가입 폼
+## 회원 가입 폼
  ```html
  <body>
     <form action="write.jsp">
@@ -174,7 +174,7 @@ layout: single
  </body>
  ```
 
- ## CSS
+## CSS
  ```css
  <styletype="text/css">
   table {
