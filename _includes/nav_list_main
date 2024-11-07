@@ -11,15 +11,15 @@
         <span class="nav__sub-title">Dev</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "java" %}
-                        <li><a href="/categories/java" class="">Java ({{category[1].size}})</a></li>
+                    {% if category[0] == "spring_framework" %}
+                        <li><a href="/categories/jspring_framework" class="">Spring_Framework ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
               {% for category in site.categories %}
-                  {% if category[0] == "algorithm" %}
-                      <li><a href="/categories/algorithm" class="">Algorithm ({{category[1].size}})</a></li>
+                  {% if category[0] == "spring_boot" %}
+                      <li><a href="/categories/spring_boot" class="">Spring_Boot ({{category[1].size}})</a></li>
                   {% endif %}
               {% endfor %}
             </ul>
